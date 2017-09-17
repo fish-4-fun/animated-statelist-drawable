@@ -1,7 +1,7 @@
 # AnimatedStateListDrawable
 
-Experimental concepts using [AnimatedVectorDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimatedVectorDrawable.html) and [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter).
+Experimental concepts using [AnimatedStateListDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimatedStateListDrawable.html) and [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter).
 
 Progress indicator | Chat app concept
 ------------ | -------------
-<img src="https://raw.githubusercontent.com/fish-4-fun/lil-dots/master/assets/screenshot.gif" width="320"> | <img src="https://raw.githubusercontent.com/fish-4-fun/lil-dots/master/assets/chat-concept.gif" width="320">
+<img src="https://raw.githubusercontent.com/fish-4-fun/animated-statelist_drawable/master/external-assets/x_2_checkmark.gif" width="320"> | <img src="https://raw.githubusercontent.com/fish-4-fun/animated-statelist_drawable/master/external-assets/realworld-subtle-touch.gif" width="320">
