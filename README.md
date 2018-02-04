@@ -2,7 +2,7 @@
 
 Experimental concepts using [AnimatedStateListDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimatedStateListDrawable.html) and [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter).
 
-We are lucky as Android developers that vectors and animated vectors are finally now supported. Before this playful API was introduced, acheiving the results below would likely involve subsclassing View, drawing to a canvas, managing animation listeners etc. The resutling code could be plentiful and verbose. For the most part, not even worth the hassle. Now, we can easily add these subtle improvements to our UI's and they are more easily managed to satisfy changing constraints.
+We are lucky as Android developers that vectors and animated vectors are finally now supported. Before this playful API was introduced, achieving the results below would likely involve subsclassing View, drawing to a canvas, managing animation listeners etc. The resutling code could be plentiful and verbose. For the most part, not even worth the hassle. Now, we can easily add these subtle improvements to our UI's and they are more easily managed to satisfy changing constraints.
 
 Checkbox Example | Realworld Example
 ------------ | -------------
